@@ -1,1 +1,0 @@
-# netlify-function-demo
